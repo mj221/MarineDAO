@@ -1,6 +1,6 @@
-# Melon DAO
+<h1 align="center"> MelonDAO | Decentralised Authority Organisation </h1>
 
-A Decentralised Authority Organisation for making proposals and voting with the MelonDAO Governance Token ($MELON). Requires NFT memberships to access MelonDAO. Built with React JS and thirdweb library. Deployed on the RINKEBY testnetwork on Ethereum.
+A Decentralised Authority Organisation with basic proposal submissions and voting functionality facilitated by using the MelonDAO Governance Token ($MELON). Users must mint a `Melon Slice` NFT membership from the MelonDAO website to get involved. Built with React JS and thirdweb library. Deployed on the RINKEBY testnetwork on Ethereum.
 
 <hr/>
 
