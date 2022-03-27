@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MelonDAO/static/css/main.e29bf906.css",
+    "main.js": "/MelonDAO/static/js/main.f57f28cb.js",
+    "index.html": "/MelonDAO/index.html",
+    "main.e29bf906.css.map": "/MelonDAO/static/css/main.e29bf906.css.map",
+    "main.f57f28cb.js.map": "/MelonDAO/static/js/main.f57f28cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e29bf906.css",
+    "static/js/main.f57f28cb.js"
+  ]
+}
