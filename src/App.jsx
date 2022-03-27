@@ -162,7 +162,7 @@ const App = () => {
     try {
       setIsClaiming(true)
       await editionDrop.claim("0", 1)
-      console.log(`🌊 Successfully Minted! Check it out on OpenSea: https://testnets.opensea.io/assets/${editionDrop.getAddress()}/0`)
+      window.alert(`Successfully Minted! Check it out on OpenSea: https://testnets.opensea.io/assets/${editionDrop.getAddress()}/0`)
       setHasClaimedNFT(true)
     } catch (error) {
       setHasClaimedNFT(false)
