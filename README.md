@@ -2,7 +2,7 @@
 
 A Decentralised Authority Organisation with built-in treasury and governance using the MelonDAO Governance Token ($MELON). Users can submit and vote against / for / abstain proposals made by the community, for the community. All USERS are required to mint the `Melon Slice` NFT membership (for free on Rinkeby) from the MelonDAO website to join the DAO but $MELON is required for participating in governance. 
 
-Built with React JS and Thirdweb library. Deployed on the RINKEBY test network on Ethereum.
+Built with React JS and Thirdweb library. Deployed on the RINKEBY test network on Ethereum and can be accessed from https://mj221.github.io/MelonDAO/.
 
 <hr/>
 <h2 align="center"> Minting MelonDAO Membership NFT </h2>
