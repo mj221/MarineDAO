@@ -4,6 +4,7 @@ A Decentralised Authority Organisation with built-in treasury and governance usi
 
 <hr/>
 <h2 align="center"> Minting MelonDAO Membership NFT </h2>
+<img src="https://user-images.githubusercontent.com/50122869/160287068-2002fcbf-7d09-4c68-bf84-8f2a03a1c08c.gif"></img>
 
 
 <hr/>
